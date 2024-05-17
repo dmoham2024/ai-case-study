@@ -1,4 +1,4 @@
-#Tempus Case Study
+# **Tempus Case Study**
 
 > I'm going to be in technology for a long time.
 Read more at https://www.brainyquote.com/authors/eric-lefkofsky-quotes#
@@ -9,7 +9,7 @@ The company is considered to be in the health tech space. Particularly this comp
 Major impact has been made in the field of oncology. The demand for genomic sequencing has increased and Tempus has improved on its sequencing techniques with the help of data and AI. Core metrics that we can measure are revenue and growth, patient acquisition, patient retention, and pharmaceutical or hospital partnership. In 2016 the company had 100 customers and performed 10,000 tests, and by 2022 the company had 1000 customers and performed 1 million tests (The Brand Hopper). Furthermore, he company had raised 210 million in revenue by 2022. The company's growth relies on the amount of data they can collect, and Tempus has collaborated with three major pharmaceutical companies. This includes Astrazenecka, Pfizer, and GSK (Landi). Tempus has made its name in the personalized medicine and oncology space. It has competitors such as Foundation Medicine, Guardant, Flatiron health (Guardant website) (Foundation medicine Website) (Faltiron Website). However, these companies have niched themselves into particular aspects of health for example they may be focused on particular tests or just genomic profiling. They have not had the expansive approach of utilizing data and influencing many different tests. Tempus has expanded its reach very far with hiring talent and collaborating with big companies to utilize data on a large and fast scale in the field.
 CEO Eric Lefloski has mentioned that his company has focused more on the diagnostic portion of oncology rather than the therapeutic side of oncology. The company is doing injustice in this manner. First, the company has shown massive diagnostic capabilities and the main reason is due to the mass data they have collected. However, if the data has made such an impact in diagnostics then it can also make a major impact in therapeutics. That data can be used to produce more therapies and drugs much faster especially in a field like cancer where the mainstay of treatment is usually just surgery, radiation or chemotherapy (Vemula et al). All these therapies are considered in ways debilitating and tough therapies at times depending on the patient. The pharmaceutical industry has negative aspects to it, but patients need new drugs in the market and with the help of AI and data we can push drugs faster and more accurately with personalized solutions for patients. Tempus has already built a good reputation with companies and hospitals which is why delving into therapeutics can only help and not hurt them. If they are weary about their reputation then they can build a different company off Tempus and make an impact as a separate company. The resources they would need to utilize are already available. They have the data, AI capabilities, research team, and pharmaceutical partnerships. They would just have to make a team for therapeutic research and get into clinical trials to test their drugs. Tempus has shown a lot of growth in the past few years and it will continue to grow the next few years as well.
 
-#Citation in MLA format
+# **Citation in MLA format**
 
 “Our History.” Tempus, 12 July 2023, www.tempus.com/about-us/our-history/. 
 “Tempus Overview.” YouTube, YouTube, 8 Feb. 2021, www.youtube.com/watch?v=jsbWH3sfrcM. 
@@ -34,7 +34,7 @@ Landi, Heather. “Precision Medicine Company Tempus Inks 3rd Major Pharma Deal,
 “Flatiron Health: Reimagining the Infrastructure of Cancer Care.” Flatiron Health | Reimagining the Infrastructure of Cancer Care, flatiron.com/. Accessed 16 May 2024. 
 Vemula D;Jayasurya P;Sushmitha V;Kumar YN;Bhandari V; “Cadd, AI and ML in Drug Discovery: A Comprehensive Review.” European Journal of Pharmaceutical Sciences : Official Journal of the European Federation for Pharmaceutical Sciences, U.S. National Library of Medicine, pubmed.ncbi.nlm.nih.gov/36347444/. Accessed 16 May 2024. 
 
-#**Citations Links**
+# **Citations Links**
 
 https://www.tempus.com/about-us/our-history/
 https://www.youtube.com/watch?v=jsbWH3sfrcM 
